@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Ahmad Genius is a passionate and highly skilled Software Engineer with deep expertise in front-end and back-end web development. With a strong command of technologies such as HTML, CSS, JavaScript, React.js, React Native, Node.js, and MongoDB, he consistently builds modern, efficient, and user-focused digital solutions. His work reflects a perfect balance between creativity and technical precision, allowing him to craft applications that are not only functional but also elegantly designed and optimized for performance.<br><br>As the founder of Ai Schooling System and a leader of his own software house, Ahmad has developed a reputation for innovation and reliability in the tech industry. He has worked across multiple domains, including education, business automation, and mobile solutions, turning ideas into reality through clean code, robust architecture, and seamless UI/UX experiences.<br><br>Ahmad’s expertise extends to React Query, advanced API integration, and scalable Express-based backends. Whether building dynamic dashboards, full-stack systems, or cross-platform mobile apps, he approaches every project with discipline and a problem-solving mindset.<br><br>Beyond technical excellence, Ahmad is driven by a strong sense of purpose — to create impactful software that makes people’s lives easier. His leadership and mentorship within his team inspire others to pursue growth, innovation, and excellence in development.<br><br>With an ever-curious mind, he constantly explores new technologies, frameworks, and AI integrations to stay ahead in the fast-paced tech world. Ahmad Genius is not just a developer — he’s an architect of digital experiences, a creative thinker, and a relentless innovator shaping the future of intelligent software solutions.
 
-<!--
-**Ahmad-Devwlper145/Ahmad-Devwlper145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmad-Devwlper145&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Ahmad-Devwlper145&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
