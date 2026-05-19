@@ -1,0 +1,146 @@
+[
+    {
+        "name":  "0xtanzim.filetree-pro",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=0xtanzim.filetree-pro"
+    },
+    {
+        "name":  "aaron-bond.better-comments",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"
+    },
+    {
+        "name":  "adpyke.codesnap",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap"
+    },
+    {
+        "name":  "burkeholland.simple-react-snippets",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets"
+    },
+    {
+        "name":  "cdfzo.mizu",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=cdfzo.mizu"
+    },
+    {
+        "name":  "christian-kohler.path-intellisense",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense"
+    },
+    {
+        "name":  "dbaeumer.vscode-eslint",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+    },
+    {
+        "name":  "donjayamanne.githistory",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory"
+    },
+    {
+        "name":  "dsznajder.es7-react-js-snippets",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
+    },
+    {
+        "name":  "eamodio.gitlens",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+    },
+    {
+        "name":  "formulahendry.auto-close-tag",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag"
+    },
+    {
+        "name":  "formulahendry.auto-rename-tag",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"
+    },
+    {
+        "name":  "fuzionix.devtool-plus",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=fuzionix.devtool-plus"
+    },
+    {
+        "name":  "github.copilot-chat",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=github.copilot-chat"
+    },
+    {
+        "name":  "github.github-vscode-theme",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=github.github-vscode-theme"
+    },
+    {
+        "name":  "hasibx2000.slab-theme",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=hasibx2000.slab-theme"
+    },
+    {
+        "name":  "kamikillerto.vscode-colorize",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize"
+    },
+    {
+        "name":  "kisstkondoros.vscode-gutter-preview",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview"
+    },
+    {
+        "name":  "ms-dotnettools.csdevkit",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
+    },
+    {
+        "name":  "ms-dotnettools.csharp",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
+    },
+    {
+        "name":  "ms-dotnettools.vscode-dotnet-runtime",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
+    },
+    {
+        "name":  "ms-vscode.live-server",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
+    },
+    {
+        "name":  "ms-vscode.remote-explorer",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer"
+    },
+    {
+        "name":  "ms-vsliveshare.vsliveshare",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare"
+    },
+    {
+        "name":  "nextnav.nextnav",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=nextnav.nextnav"
+    },
+    {
+        "name":  "pranaygp.vscode-css-peek",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek"
+    },
+    {
+        "name":  "ritwickdey.liveserver",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver"
+    },
+    {
+        "name":  "saoudrizwan.claude-dev",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
+    },
+    {
+        "name":  "solnurkarim.html-to-css-autocompletion",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion"
+    },
+    {
+        "name":  "tabnine.tabnine-vscode",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode"
+    },
+    {
+        "name":  "tobiasalthoff.atom-material-theme",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme"
+    },
+    {
+        "name":  "usernamehw.errorlens",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+    },
+    {
+        "name":  "vscode-icons-team.vscode-icons",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
+    },
+    {
+        "name":  "wesbos.theme-cobalt2",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"
+    },
+    {
+        "name":  "whizkydee.material-palenight-theme",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme"
+    },
+    {
+        "name":  "wix.vscode-import-cost",
+        "url":  "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost"
+    }
+]
