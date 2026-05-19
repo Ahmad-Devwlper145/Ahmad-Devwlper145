@@ -10,11 +10,10 @@
     "editor.cursorBlinking": "expand",
     "editor.cursorWidth": 2,
     "editor.mouseWheelZoom": true,
-    "editor.wordWrap": "on",
     "editor.renderWhitespace": "selection",
     "editor.guides.bracketPairs": true,
     "editor.bracketPairColorization.enabled": true,
-    "editor.stickyScroll.enabled": true,
+    "editor.stickyScroll.enabled": false,
     "editor.minimap.renderCharacters": false,
     "editor.linkedEditing": true,
     // ======= FORMAT & SAVE =======
@@ -158,4 +157,5 @@
             "bold": true
         }
     ],
+    "tabnine.experimentalAutoImports": true,
 }
