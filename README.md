@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Ahmad Genius 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Founder @ Ai Schooling System</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Genius!;Full-Stack+Software+Engineer;Founder+@+Ai+Schooling+System" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B-Schools%20Served-brightgreen?style=flat-square" />
@@ -37,35 +38,34 @@ Beyond the code, I lead a small team and work closely with AI coding agents in m
 
 ## 💻 Tech Stack
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-**Backend**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-
-**Desktop & Mobile**
-<br>
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-**DevOps & Tools**
-<br>
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
-
-**Languages**
-<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,html,css,js,ts&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio,electron,androidstudio,kotlin&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=render,vercel,cloudflare,aws,githubactions,vscode,git,github&theme=dark&perline=8" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahmad-Devwlper145&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Devwlper145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ahmad-Devwlper145&theme=dark&hide_border=false" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -74,5 +74,3 @@ Beyond the code, I lead a small team and work closely with AI coding agents in m
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Ahmad-Devwlper145&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
